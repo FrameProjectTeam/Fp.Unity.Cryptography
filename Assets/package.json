@@ -1,0 +1,11 @@
+{
+  "name": "com.fp.cryptography",
+  "version": "0.1.0",
+  "displayName": "Cryptography",
+  "description": "Hashing and cryptography algorithm",
+  "unity": "2019.1",
+  "keywords": ["Crc32", "Cryptography", "Hashing"],
+  "author": { "name": "Yevhenii Vitiuk", "email": "Yevhenii.Vitiuk@gmail.com"},
+  "license": "MIT",
+  "dependencies": {}
+}

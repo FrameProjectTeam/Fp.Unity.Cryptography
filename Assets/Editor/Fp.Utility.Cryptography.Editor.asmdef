@@ -1,0 +1,18 @@
+{
+  "name": "Fp.Utility.Cryptography.Editor",
+  "rootNamespace": "Fp.Utility.Cryptography.Editor",
+  "references": [
+    "GUID:5cd5c05fe054cb74c8c61a8e929e7a19"
+  ],
+  "includePlatforms": [
+    "Editor"
+  ],
+  "excludePlatforms": [],
+  "allowUnsafeCode": false,
+  "overrideReferences": false,
+  "precompiledReferences": [],
+  "autoReferenced": true,
+  "defineConstraints": [],
+  "versionDefines": [],
+  "noEngineReferences": false
+}
